@@ -6,7 +6,7 @@ I enjoy trying to understand how things work, which was why I got my bachelor's 
 
 Other hobbies of mine include professional wrestling & skateboarding.
 
-- I’m currently working on building my online portfolio, then I will be continuing my work on my Picture Perfect app, which is a social-networking type app using Amazon Web Services, React/Redux, & Sequelize.  I will also be working on data structures & algorithm practice on LeetCode and HackerRank while also gaining more understanding of the concepts with a Colt Steele Udemy course on the subject.
+- I’m currently working on a new app I am calling "Poetry Corner", where users will be able to post their poetry, as well as favorite and comment on poems.  This app utilizes React/Redux in the frontend, & Sequelize and Express servers in the backend.  I will also be working on data structures & algorithm practice on LeetCode and HackerRank while also gaining more understanding of the concepts with a Colt Steele Udemy course on the subject.
 
 If you are interested in reaching out to me, do so at matthewhasan1218@gmail.com.
 
