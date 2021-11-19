@@ -7,6 +7,7 @@ I enjoy trying to understand how things work, which was why I got my bachelor's 
 Other hobbies of mine include professional wrestling & skateboarding.
 
 - I’m currently working on a new app I am calling "Poetry Corner", where users will be able to post their poetry, as well as favorite and comment on poems.  This app utilizes React/Redux in the frontend, & Sequelize and Express servers in the backend.  I will also be working on data structures & algorithm practice on LeetCode and HackerRank while also gaining more understanding of the concepts with a Colt Steele Udemy course on the subject.
+- Also, as of November 2021, I have been working on getting my Google IT Certification. I am hoping to complete this in 2022, so I will have even more knowledge about both hardware and software!
 
 If you are interested in reaching out to me, do so at matthewhasan1218@gmail.com.
 
