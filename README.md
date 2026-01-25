@@ -8,9 +8,6 @@ Other hobbies of mine include professional wrestling & skateboarding.
 
 - I’m currently working on a new app I am calling "Poetry Corner", where users will be able to post their poetry, as well as favorite and comment on poems.  This app utilizes React/Redux in the frontend, & Sequelize and Express servers in the backend.  I will also be working on data structures & algorithm practice on LeetCode and HackerRank while also gaining more understanding of the concepts with a Colt Steele Udemy course on the subject.
 
-If you are interested in reaching out to me, do so at matthewhasan1218@gmail.com.
-
-
 <!--
 **MattMav21/MattMav21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
